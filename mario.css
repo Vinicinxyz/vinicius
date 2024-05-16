@@ -18,13 +18,13 @@ nav{
 }
 nav a{
     text-transform: uppercase;
-    color: black;
+    color: rgb(0, 102, 255);
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
 }
 
-nave a:hover{
-    color: #c78c19;
+nav a:hover{
+    color: #4f04ff;
     text-decoration: underline;
 }
